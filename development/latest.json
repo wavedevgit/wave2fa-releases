@@ -1,17 +1,21 @@
 {
   "version": "0.0.1",
   "branch": "development",
-  "commit": "80bf74a1eae0d8caa6d2bdf823f83e689d69f826",
-  "shortCommit": "44bfce6",
-  "buildTime": "2026-04-07T22:57:42Z",
+  "commit": "e8fef2292e5660d1e94d135e546afe16f9f13c2d",
+  "shortCommit": "570199c",
+  "buildTime": "2026-04-07T23:00:11Z",
   "files": {
-    "bundle.js": {
-      "path": "bundle.js",
-      "sha256": "330e77f5a9b9d891865fc5f483a929b13e471fc6c960337ea55aec134ad992ac"
-    },
     "bundle.js.map": {
       "path": "bundle.js.map",
       "sha256": "9bfbebc37b26b40ede267bd38d2ea55fbb440d886807ebc52902dde3c0099118"
+    },
+    "bundle.js": {
+      "path": "bundle.js",
+      "sha256": "e26e6e560e72bfa3c4684b08b1c08ac4c8a32898f2cb200e4e3ae44261d73996"
+    },
+    "bundle.zip": {
+      "path": "bundle.zip",
+      "sha256": "07831a288961798f0c2cca1a7368196c1aaa6c4a1ed343d1d0ea966cfe8c1217"
     },
     "package.json": {
       "path": "package.json",
