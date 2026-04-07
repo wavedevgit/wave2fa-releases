@@ -1,0 +1,17 @@
+{
+  "version": "0.0.1",
+  "branch": "feat/src-rewrite",
+  "commit": "3f1b0ea98ffa6c22ef2a032df95422406113cceb",
+  "shortCommit": "9b40fba",
+  "buildTime": "2026-04-07T22:30:33Z",
+  "files": {
+    "bundle.js": {
+      "path": "bundle.js",
+      "sha256": "1a63d00b2c2d91b5f8e6b4eafeb22c63d7dd2e350306d564fb075d5c7b8c9695"
+    },
+    "bundle.js.map": {
+      "path": "bundle.js.map",
+      "sha256": "9bfbebc37b26b40ede267bd38d2ea55fbb440d886807ebc52902dde3c0099118"
+    }
+  }
+}
