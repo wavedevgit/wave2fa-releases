@@ -1,2 +1,3 @@
-# wave2fa-releases
-Releases for wave2fa.
+# Wave2fa Releases
+
+Releases for wave2fa, used by install script.
