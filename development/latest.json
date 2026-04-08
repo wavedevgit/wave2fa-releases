@@ -1,33 +1,41 @@
 {
   "version": "0.0.1",
   "branch": "development",
-  "commit": "44e2b5084de11581c79244ce8fb0f55da921e109",
-  "shortCommit": "0aa5a33",
-  "buildTime": "2026-04-08T13:52:56Z",
+  "commit": "75f827fa5628d6cd0fa52c61856a5717eed6ce7e",
+  "shortCommit": "fa98acb",
+  "buildTime": "2026-04-08T14:25:49Z",
   "files": {
-    "bundle.js.map": {
-      "path": "bundle.js.map",
-      "sha256": "9bfbebc37b26b40ede267bd38d2ea55fbb440d886807ebc52902dde3c0099118"
-    },
-    "wave2fa.sh": {
-      "path": "wave2fa.sh",
-      "sha256": "bffe46fc780d474a3801acd2935bcc1ecb48e38dd7fc6618dd949b892292dd7f"
-    },
     "bundle.js": {
       "path": "bundle.js",
       "sha256": "604e97c9296e5ca913689052cdf21ec04318d5fd05dbdc8439d0c7855359e1cc"
     },
+    "dist/bundle.js": {
+      "path": "dist/bundle.js",
+      "sha256": "90a8100081e8ccdbb0954795cc32e097fc37b62b00295373d76dd29c3a0769cd"
+    },
+    "dist/bundle.js.map": {
+      "path": "dist/bundle.js.map",
+      "sha256": "9bfbebc37b26b40ede267bd38d2ea55fbb440d886807ebc52902dde3c0099118"
+    },
+    "bundle.js.map": {
+      "path": "bundle.js.map",
+      "sha256": "9bfbebc37b26b40ede267bd38d2ea55fbb440d886807ebc52902dde3c0099118"
+    },
     "bundle.zip": {
       "path": "bundle.zip",
-      "sha256": "4eba9600cde6e0d0f0a947c0bb60c3fa1dc9bb72ca065ee65a80ea5dbfd1acff"
+      "sha256": "646c5a22ffe2209be9398e3465be745344b97b94fa4ec8cd654a825f828ab773"
     },
     "info.json": {
       "path": "info.json",
-      "sha256": "c9d4df6888c1fbed1603ada995314fa60275b407b1d51b50a5365cc799ae60e7"
+      "sha256": "21b56bee4f6c46094e71a773d2b3674c894b915c601ee5cd3116f4122ef06a7f"
+    },
+    "wave2fa.sh": {
+      "path": "wave2fa.sh",
+      "sha256": "5f76a1cfee719b9ede5930abe45ccc772c3c5e0a153842c628f241fd77db3636"
     },
     "package.json": {
       "path": "package.json",
-      "sha256": "da61e563e0b311cc1403cd59b520ca7f3332f3e8b0117d0fc52dbe6f28914b23"
+      "sha256": "6a6f8ed3c9c61a7f975c74d36ba64e021bb184842dd2d8c6d80471490b4abd22"
     }
   }
 }
