@@ -5,20 +5,12 @@
   "shortCommit": "fa98acb",
   "buildTime": "2026-04-08T14:25:49Z",
   "files": {
-    "bundle.js": {
-      "path": "bundle.js",
-      "sha256": "604e97c9296e5ca913689052cdf21ec04318d5fd05dbdc8439d0c7855359e1cc"
-    },
     "dist/bundle.js": {
       "path": "dist/bundle.js",
       "sha256": "90a8100081e8ccdbb0954795cc32e097fc37b62b00295373d76dd29c3a0769cd"
     },
     "dist/bundle.js.map": {
       "path": "dist/bundle.js.map",
-      "sha256": "9bfbebc37b26b40ede267bd38d2ea55fbb440d886807ebc52902dde3c0099118"
-    },
-    "bundle.js.map": {
-      "path": "bundle.js.map",
       "sha256": "9bfbebc37b26b40ede267bd38d2ea55fbb440d886807ebc52902dde3c0099118"
     },
     "bundle.zip": {
