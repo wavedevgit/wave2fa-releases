@@ -1,9 +1,9 @@
 {
-    "version": "0.0.7",
+    "version": "0.0.11",
     "branch": "development",
-    "commit": "ff684c75663f832b4eb9f67512a87ed05127e31a",
-    "shortCommit": "ff684c7",
-    "buildTime": "2026-04-10T11:27:53.546Z",
+    "commit": "90ec01491fd1400caaae7d0a9a460c323ae14913",
+    "shortCommit": "90ec014",
+    "buildTime": "2026-04-10T11:59:28.868Z",
     "files": {
         "wave2fa.sh": {
             "path": "wave2fa.sh",
@@ -11,15 +11,19 @@
         },
         "dist/bundle.js.map": {
             "path": "dist/bundle.js.map",
-            "sha256": "aa4a588ef4c843687229338098d6471630cdde5170d3f071f2263e3cf98e0105"
+            "sha256": "29517ae853aafe7f5be4aee3b9d3861d634e7f3558636cdaef01efbabc3d60df"
         },
         "dist/bundle.js": {
             "path": "dist/bundle.js",
-            "sha256": "bfed01fd9a30694a48f730a93212352636be21e92161240fa55876128f789c3f"
+            "sha256": "7575a9ceb46f1be705db059af661564de31f64e974d5373112fcbce36cf856e1"
+        },
+        "info.json": {
+            "path": "info.json",
+            "sha256": "b2f7984c099e62e35785b7f2b10f300f38f12084ffafb29b2f97ccc1433c9c9a"
         },
         "package.json": {
             "path": "package.json",
-            "sha256": "6531cce581272db9e7c8d68f0aa2a0942a42df9f4f505c3f75246560b952a8ee"
+            "sha256": "6903b71f84ced70bee708c6a2f1ce025c608ef2c47a1a94ead8d30a64ae454b0"
         }
     }
 }
