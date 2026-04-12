@@ -1,53 +1,64 @@
 {
-    "version": "0.0.13",
+    "version": "0.0.14",
     "branch": "development",
-    "commit": "3b13cc219014e057a5e1be71455fcce906b39bdc",
-    "shortCommit": "3b13cc2",
-    "buildTime": "2026-04-12T12:31:00.743Z",
+    "commit": "d5c3f5580c1f9221acf8dc7acfcc0f7cbddffa3e",
+    "shortCommit": "d5c3f55",
+    "buildTime": "2026-04-12T19:42:38.424Z",
     "files": {
         "wave2fa.sh": {
             "path": "wave2fa.sh",
-            "sha256": "ec14e3bf2034812e6e8a565b92330e87b4d2f470599129fb84e87ccbc9a6aa86"
+            "sha256": "ec14e3bf2034812e6e8a565b92330e87b4d2f470599129fb84e87ccbc9a6aa86",
+            "md5": "c18a18ad9f51388e547c7d88b0a972bc"
         },
         "dist/bundle.js.map": {
             "path": "dist/bundle.js.map",
-            "sha256": "13f83f5559f8c2b2cbcb52e606b3e9d42b8fd380aaef988f9a27db0cae1e6c4e"
+            "sha256": "13f83f5559f8c2b2cbcb52e606b3e9d42b8fd380aaef988f9a27db0cae1e6c4e",
+            "md5": "2b64ab90ccfb959b4be7fd604792cd9c"
         },
         "dist/wave2fa-windows-arm64.exe": {
             "path": "dist/wave2fa-windows-arm64.exe",
-            "sha256": "39328689f44bb04043e49941a6a2d134f597192a01e86b5e5583fc2f14b86714"
+            "sha256": "a53bad3d14218a8599ee31c0b6720a27d8b0657b17f68c08896c19839eb141d8",
+            "md5": "9a05b208701337a38ba84ef6958cfef4"
         },
         "dist/bundle.js": {
             "path": "dist/bundle.js",
-            "sha256": "2bbfd08cb24741d003c9dfc3c286bc77000631708197ae85f1bb7fa12db6066e"
+            "sha256": "299c68e95e14cc1dbd651c6915857985b0ba70e2a08491ffe6e0ee58bd4f1014",
+            "md5": "7f3c65b993f41fbc13fb35a5d4bba9b6"
         },
         "dist/wave2fa-windows-x64.exe": {
             "path": "dist/wave2fa-windows-x64.exe",
-            "sha256": "407bf48721caf0828b3c1727b8c05959d07fe47b90bd017304023e053e77bc56"
+            "sha256": "0911aea416692ffeb51da21ce9eda95e9c7f088f8f7a415f8118ea43f136a2a8",
+            "md5": "87d3b4e1fd553ce4da6717637c3dc4fa"
         },
         "dist/wave2fa-macos-arm64": {
             "path": "dist/wave2fa-macos-arm64",
-            "sha256": "d940f986409e4538077666505d49dfb3a548656b3c4b37cb22503234931661f2"
+            "sha256": "b3f5709bd92e4d946a9635ea3d903fd672f03b52eb5df9a7690f917c3e284366",
+            "md5": "01fc59592f7abb3e3a584f5ad15195bf"
         },
         "dist/wave2fa-macos-x64": {
             "path": "dist/wave2fa-macos-x64",
-            "sha256": "5f530cd4c874561ab4d9069eab579686446ae71567616989bc3fdbe29acd5ee8"
+            "sha256": "9c9c017c37cc1000b1be612008b318fd9f7400b4dd16f1a64ded3df6da3420ff",
+            "md5": "125e903d87c14bace2e3f1384834ddee"
         },
         "dist/wave2fa-linux-x64": {
             "path": "dist/wave2fa-linux-x64",
-            "sha256": "8cb8bad098378089a8aff8c336f8c17994263567fa68fdbb679a433014da3bc5"
+            "sha256": "56b223c3c269262ba7b307113b0b8dbb9ce38f0c9abaa90b202ca40a374f2a1b",
+            "md5": "ee0f8a65f96d11669eb8d86d8f381eb7"
         },
         "dist/wave2fa-linux-arm64": {
             "path": "dist/wave2fa-linux-arm64",
-            "sha256": "3bec003506dbe8a2027c4d46dd14e548351922b94c3b0b56c6b82c61e09d7665"
+            "sha256": "edafb6ce42200090fc6e14e679d47c62dc182c988822800398b92b561bfed4f0",
+            "md5": "6396549a6277d423f29fc46b4620a231"
         },
         "info.json": {
             "path": "info.json",
-            "sha256": "9f891f94251f0da38b23caa3d92e4c3fab4aea5d9c465015f2faeb2cabce3efa"
+            "sha256": "d80771e229f26355148e41a1a40bb124a3efe08f50fa71cf1e200f8fede31497",
+            "md5": "4e2e43c178e548a70b30471565e03e14"
         },
         "package.json": {
             "path": "package.json",
-            "sha256": "dd764046c39158555ce225605f1c466936c9fa2ee1bfbd98226e1adadbb4271c"
+            "sha256": "a5c664b6882c4577de4f18b719eb50008ceca32e4e89ae8df9e9893ce35b3159",
+            "md5": "a0e99e1b9a6393530b0c9476206d36c2"
         }
     }
 }
