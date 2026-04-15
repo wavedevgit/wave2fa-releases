@@ -1,60 +1,49 @@
 {
-  "version": "0.0.1",
+  "version": "0.0.6",
   "branch": "development",
-  "commit": "c4d76e1cf7433065fed1430310893831fa8afd64",
-  "shortCommit": "c4d76e1",
-  "buildTime": "2026-04-14T18:35:54.177Z",
-  "releaseUrl": "https://github.com/wavedevgit/wave2fa-releases/releases/download/development-0.0.1",
+  "commit": "95d88efff85af3580d35a734f5ab21e7fd42fc84",
+  "shortCommit": "95d88ef",
+  "buildTime": "2026-04-15T16:19:09.273Z",
   "files": {
     "wave2fa-linux-x64.zip": {
-      "url": "https://github.com/wavedevgit/wave2fa-releases/releases/download/development-0.0.1/wave2fa-linux-x64.zip",
-      "sha256": "12dcb2a9b278b75c4b6c28f71c856208c3bdc692397c5c4d6500fd94299538a2",
-      "md5": "58193fae600c9723e3dd284ba0fe9492"
+      "sha256": "293256f027999d903d72231bf8cf7df3236213362ffc9656b1a7921b627461e9",
+      "md5": "9613255827684ea85ecdf7bbf156ef26"
     },
     "wave2fa-linux-arm64.zip": {
-      "url": "https://github.com/wavedevgit/wave2fa-releases/releases/download/development-0.0.1/wave2fa-linux-arm64.zip",
-      "sha256": "90cc63a3e29dc1ec4542fe992114537fe589b4e47b6586ed7f607c588c196e90",
-      "md5": "d7fbf5fad8975766d80a4dc8352a4ecb"
+      "sha256": "252bb8896d4d8416e17bb8602eff87ebff5e20b1d9268dcacdd6fd590fa19fa9",
+      "md5": "9550926316673a0306b025c8cf07d63b"
     },
     "wave2fa-macos-x64.zip": {
-      "url": "https://github.com/wavedevgit/wave2fa-releases/releases/download/development-0.0.1/wave2fa-macos-x64.zip",
-      "sha256": "b53c0ac0c4dedb7c61e1bf024d96c7192460e954922d1cd320fa5855dc9ee610",
-      "md5": "1c278be48e4677c8337f8086e03f2942"
+      "sha256": "4da5044dc4e442ca5574fb1971cd622a4feaaab696ccc0877401954edf8708e7",
+      "md5": "8e5f5342c8bae584e61f94f8d2316e8e"
     },
     "wave2fa-macos-arm64.zip": {
-      "url": "https://github.com/wavedevgit/wave2fa-releases/releases/download/development-0.0.1/wave2fa-macos-arm64.zip",
-      "sha256": "342cd5269a0ebc215eba20785a6cf7a42b212df7f83914171b7037156a6207b9",
-      "md5": "fea0d0ddbbad7114b4a34e664ecf98af"
+      "sha256": "12cf52184666f35264f0bb070155e5be2aecd182957c9a617aa925741195581f",
+      "md5": "9a4d5cb7d3d5600edd19d59c2a66c09a"
     },
     "wave2fa-windows-x64.zip": {
-      "url": "https://github.com/wavedevgit/wave2fa-releases/releases/download/development-0.0.1/wave2fa-windows-x64.zip",
-      "sha256": "62d526d33793b290cec4e10d125bb7684255f2d08eded59cd806289e1823175a",
-      "md5": "860817b665a4551d108211de8910aa92"
+      "sha256": "fd2695cd4bb306b6b571f72ac46539af08e15e0bbfefa2f0b9823ce73c3d1d6f",
+      "md5": "0036971089c15b13419e7f20e9cffda5"
     },
     "wave2fa-windows-arm64.zip": {
-      "url": "https://github.com/wavedevgit/wave2fa-releases/releases/download/development-0.0.1/wave2fa-windows-arm64.zip",
-      "sha256": "d717d2b73663f35eac77af68ed256210e68134df935597e5c33ba504ce3ab097",
-      "md5": "cf0de95aef6ef0704700f5404a8a10e0"
+      "sha256": "320020b72cebe4e4276a3aa9d8d7ed76f26894d589ecf42bebe0eb6f2784bbb7",
+      "md5": "756355e1f5e34718dfb428e832f9b35c"
     },
     "bundle.js": {
-      "url": "https://github.com/wavedevgit/wave2fa-releases/releases/download/development-0.0.1/bundle.js",
-      "sha256": "4c8ba42b86b785a504290c6dff79f89d4106f8d8261e70c252e8b176b6a1ee52",
-      "md5": "4c80f8be2eda608afaf10ba5519b2359"
+      "sha256": "542eeb381852adad66b6f7ee49b06bcf17412b9bd28291e414ed88c45ccd11f8",
+      "md5": "88d9b78dcbbf108d32691f8b3e9e406d"
     },
     "bundle.js.map": {
-      "url": "https://github.com/wavedevgit/wave2fa-releases/releases/download/development-0.0.1/bundle.js.map",
-      "sha256": "4667b15618c62c6dc0614a3abecb3d7e8bab0a3bdbd8c65d40bae8830d70bc3b",
-      "md5": "5c572cca28632c33392cb16c2d53a47b"
+      "sha256": "4d9c7a212f3b68ac7f1e65282401445f27e29cdc8dcdaf508e5be33c5e467e89",
+      "md5": "e2061016ac2ab7c957627bccf5b31ba4"
     },
     "wave2fa.sh": {
-      "url": "https://github.com/wavedevgit/wave2fa-releases/releases/download/development-0.0.1/wave2fa.sh",
       "sha256": "21971ecefc03dedf54d87764522d4b28e70aeb2db5b3cb00c97c17f669513dbc",
       "md5": "4489d002227cc6d4c6994c005b5128f9"
     },
     "package.json": {
-      "url": "https://github.com/wavedevgit/wave2fa-releases/releases/download/development-0.0.1/package.json",
-      "sha256": "de2d550ea5f2e57db0081692848deb166a5e7438e0b59ed5f357fec2c0badf90",
-      "md5": "d2baecc45e97ab2585be0323c14292e7"
+      "sha256": "7b640e75477cba6c7e3a9ac52cb6e4405f8ac4786fc893ab1343689def91ded2",
+      "md5": "e9c9ee70a55cec94b2c248e7b69c5a36"
     }
   }
 }
