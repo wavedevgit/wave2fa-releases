@@ -1,41 +1,41 @@
 {
-  "version": "0.0.7",
+  "version": "0.0.8",
   "branch": "development",
-  "commit": "da36efdd955a87ee83bfc46bb3ff00f15e8bae39",
-  "shortCommit": "da36efd",
-  "buildTime": "2026-04-20T21:01:24.034Z",
+  "commit": "982a1857a85b2558c0af6667cc192d8cf11b2873",
+  "shortCommit": "982a185",
+  "buildTime": "2026-04-21T19:02:20.096Z",
   "files": {
     "wave2fa-linux-x64.zip": {
-      "sha256": "3a475594104893eae13921be9573f3d1dde7ec805066a72b38b810703ef820bc",
-      "md5": "407796659b2ff29c0b8c6f984ac9d5c5"
+      "sha256": "ac32a5609671c76065a4b90600a9df7d48598dc89c1b762a51999adadb191d91",
+      "md5": "804b76655b907d870f4d18f9b5f72951"
     },
     "wave2fa-linux-arm64.zip": {
-      "sha256": "de44d8ea62a51845588f62a863915d2aa1dd8ec7842084204376017c7fdad3b9",
-      "md5": "0b2089b8cbaf9ce9bb65fb93117c7eae"
+      "sha256": "d9d82f02b30bfa184dee15039550ff06d196fc8e2632c1ac542fec91239e3297",
+      "md5": "30f467f34af5fbcc3656573805fb6b35"
     },
     "wave2fa-macos-x64.zip": {
-      "sha256": "93d704433dd4d1511f0449a83b90733388acba5f626d2dc19225e7a3e96c9486",
-      "md5": "f61ea4001d5ee2627c6184d27b899d44"
+      "sha256": "fc88f9edabf2d1fe1f8b32cf3fabc694a34aeaa87babf8f5c6f4242acd1e6bbf",
+      "md5": "726995fb099fb5d5acf62c8bb0b8331f"
     },
     "wave2fa-macos-arm64.zip": {
-      "sha256": "9d4a36fa53d3bdd17fbf6264bbc9b31d99d60a177b962c4f520d4d1f4fd6032c",
-      "md5": "25bd444916ee295bae7039489615287c"
+      "sha256": "315626e7c0f340b6428e605e7919c76145f0b0b70f9cfc86f2162e1b22499beb",
+      "md5": "1237e36c337037af95ac48d9a9730ece"
     },
     "wave2fa-windows-x64.zip": {
-      "sha256": "00ade1a90cd562706d8ca485c3a874ecfd1f1d5f1f78c340340f23d19d7ddae0",
-      "md5": "b2bf23e899e914d66a41299fe8e2f67b"
+      "sha256": "e05b4fa704db8f4670c1ae995f399083bae9402970c3720ba2d97c59ea695cc9",
+      "md5": "1afbbf3429ccbac4a5990b9d98f10976"
     },
     "wave2fa-windows-arm64.zip": {
-      "sha256": "7d88aa24c0fb7a6c5632a66fef858577c6b7151d6862524861412ee62e96f523",
-      "md5": "5b5cb4632d5c88137aa62adb80926aff"
+      "sha256": "1b1bdd6888dc82a459efaecd80aed328c4d394a349155d7c181cca8a61240aa2",
+      "md5": "e69316e597316b48118e63fc5d5faa4a"
     },
     "bundle.cjs": {
-      "sha256": "88eb0ee8fa9854016d16d77735e52f68a12aa400edd4ea35ee587ea8e87a38b2",
-      "md5": "e14fbff20d093bb4be26a3b1b6290fc6"
+      "sha256": "fd93a189b99cdc4e4dbe0b929f809c2f6fa4f1bebf946e66267b5a6895c38311",
+      "md5": "4aa8314ff420694a7c0eb058f124d1cf"
     },
     "bundle.cjs.map": {
-      "sha256": "41906216ba392e528639b61240c73ba7e0ae42c6616558171e54e7217921804a",
-      "md5": "acb6e7297ad37aed5dcbb1c64f6478af"
+      "sha256": "b048ed5125a08b7ff22674f4fdea980e1ff36849f47eb159c85b7ff1852147bf",
+      "md5": "8538cc5f7898dfdf76aa921a38440dca"
     },
     "wave2fa.sh": {
       "sha256": "21971ecefc03dedf54d87764522d4b28e70aeb2db5b3cb00c97c17f669513dbc",
